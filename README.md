@@ -4,14 +4,14 @@
 
 ## Thing I code with
 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 - 👋 Hi, I’m @Zhiqin-Wei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in 3D Printing
+- 🌱 I’m currently learning make a profile page
+- 📫 How to reach me : facebook
+- 😄 Pronouns: He
+- ⚡ Fun fact: Love nature photography
 
 <!---
 Zhiqin-Wei/Zhiqin-Wei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
