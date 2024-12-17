@@ -1,8 +1,7 @@
-## ⚡ Technologies
+## ⚡ Programming Languages I Know
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 - 👋 Hi, I’m @Zhiqin-Wei
 - 👀 I’m interested in ...
