@@ -1,6 +1,8 @@
+## ⚡ Technologies
 
-
- <a href="https://github.com/harish-sethuraman/readme-components">
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 - 👋 Hi, I’m @Zhiqin-Wei
 - 👀 I’m interested in ...
