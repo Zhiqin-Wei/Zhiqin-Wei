@@ -1,7 +1,7 @@
 
 
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Zhiqin-Wei</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Zhiqin-Wei</h3>&nbsp;&nbsp;![](cat-typing.gif)&nbsp
 
 - 👀 I’m interested in 3D Printing
 - 🌱 I’m currently learning make a profile page
