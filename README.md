@@ -1,6 +1,8 @@
 
 
-- 👋 Hi, I’m @Zhiqin-Wei
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Zhiqin-Wei</h3>
+
 - 👀 I’m interested in 3D Printing
 - 🌱 I’m currently learning make a profile page
 - 📫 How to reach me : facebook
